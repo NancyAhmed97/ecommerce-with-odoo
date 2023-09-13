@@ -1,0 +1,39 @@
+.properties_list_container {
+    padding: 4.6rem 0;
+    background-color: #f5f7fb !important;
+}
+
+.properties_list_container .section_title {
+    padding-bottom: 2rem;
+}
+
+.properties_list_container .section_title h2 {
+    fontWeight: 600;
+    text-transform: capitalize;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
+}
+.properties_list_container .button_see_more a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #FF385C;
+    fontSize: 16px;
+    fontWeight: 400;
+    border-radius: 3rem;
+    padding: 0.9rem 2.5em 0.9rem 2rem;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 14%;
+    text-align: center;
+    margin: auto;
+}
+
+.properties_list_container .button_see_more a:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #121B22;
+
+}

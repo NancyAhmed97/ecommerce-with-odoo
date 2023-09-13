@@ -1,0 +1,28 @@
+
+.ast-woocommerce-container{
+    padding: 5.34em 6.67em;
+    background-color: #fff;
+
+}
+.count span{
+    width: 11.05%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.count span:first-of-type,
+.count span:last-of-type{
+    cursor: pointer;
+    background-color: #FF385C;
+  
+    padding: 12px 0;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 12px;
+}
+.cart button{
+    background-color: #FF385C;
+    color: #fff;
+    border: none;
+height: 38px;
+}

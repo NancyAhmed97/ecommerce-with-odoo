@@ -1,0 +1,47 @@
+.gvRkMX {
+    cursor: unset;
+    box-shadow: none;
+    margin-bottom: 1.5rem;
+    margin-top: -1rem;
+}
+.ikZGlS {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.eKXmuc {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.bTtdOv {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 12px;
+}
+.hMIZur {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 0px 18px;
+}
+.ejSdFR {
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+    margin: 0px 6px;
+    color: rgb(125, 135, 156);
+}
+.hMIZur > * {
+    flex: 1 1 0px;
+}

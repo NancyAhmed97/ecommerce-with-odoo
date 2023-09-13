@@ -1,0 +1,57 @@
+.forget_form_container{
+    padding-top: 72px;
+    padding-bottom: 80px;
+
+}
+.forget_form_container h2{
+    color: #252525;
+    fontWeight: 700;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.forget_form_container label{
+    display: block;
+    fontSize: 18px;
+    color: #252525;
+    margin-bottom: 13px;
+}
+.forget_form_container input{
+    border: 1px solid #ebebeb;
+    height: 50px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 15px;
+    margin-bottom: 25px;
+}
+.forget_form_container .forget_password{
+    float: right;
+    line-height: 20px;
+    margin-top: -2px;
+    fontSize: 14px;
+    color: #6B6B6B;
+    margin-bottom: 8px;
+}
+.forget_form_container button{
+    width: 100%;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    color: #ffffff;
+    background: #e7ab3c;
+    border: 1px solid #e7ab3c;
+    fontSize: 14px;
+    fontWeight: 700;
+    text-transform: uppercase;
+    padding: 13px 45px 11px;
+}
+.forget_form_container .sign_up{
+    text-align: center;
+    margin-top: 22px;
+    fontSize: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+}
+.forget_form_container .sign_up a{
+    color: #252525;
+
+}
